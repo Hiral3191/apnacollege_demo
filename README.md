@@ -1,4 +1,4 @@
 # apnacollege_demo
 This is my first GIT repository
 <br>
-Author: Hiral Pujara
+Author-  Hiral Pujara 
